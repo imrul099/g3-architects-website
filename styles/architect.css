@@ -189,6 +189,23 @@ main{
     width: 165px;
 }
 
+/* footer section styles */
+.footer{
+    text-align: center;
+    border-radius: 8px;
+    background: #FFF4E7;
+    margin: 20px auto;
+    padding: 10px;
+}
+.g-section{
+    color: #FF900E;
+    font-size: 4rem;
+}
+
+.footer-description{
+    color: #424242;
+    font-size: 1.25rem;
+}
 /* responsive styles */
 /* small device */
 @media screen and (max-width: 576px) {
